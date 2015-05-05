@@ -1,0 +1,13 @@
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\bin\Debug\Thread1.exe.config
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\MainWindow.baml
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\MainWindow.g.cs
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\App.g.cs
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1_MarkupCompile.cache
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.g.resources
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.Properties.Resources.resources
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.csproj.GenerateResource.Cache
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\bin\Debug\Thread1.exe
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\bin\Debug\Thread1.pdb
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.exe
+c:\users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread1\obj\Debug\Thread1.pdb

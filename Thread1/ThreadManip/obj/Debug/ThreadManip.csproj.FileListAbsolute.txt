@@ -1,0 +1,12 @@
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\bin\Debug\ThreadManip.exe.config
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\bin\Debug\ThreadManip.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\bin\Debug\ThreadManip.pdb
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\MainWindow.baml
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\MainWindow.g.cs
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\App.g.cs
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip_MarkupCompile.cache
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip.g.resources
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip.Properties.Resources.resources
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip.csproj.GenerateResource.Cache
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\ThreadManip\obj\Debug\ThreadManip.pdb

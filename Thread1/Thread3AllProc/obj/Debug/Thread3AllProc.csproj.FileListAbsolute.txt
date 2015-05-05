@@ -1,0 +1,5 @@
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread3AllProc\bin\Debug\Thread3AllProc.exe.config
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread3AllProc\bin\Debug\Thread3AllProc.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread3AllProc\bin\Debug\Thread3AllProc.pdb
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread3AllProc\obj\Debug\Thread3AllProc.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\Thread3AllProc\obj\Debug\Thread3AllProc.pdb

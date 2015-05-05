@@ -1,0 +1,5 @@
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\WithLibrary\bin\Debug\WithLibrary.exe.config
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\WithLibrary\bin\Debug\WithLibrary.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\WithLibrary\bin\Debug\WithLibrary.pdb
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\WithLibrary\obj\Debug\WithLibrary.exe
+c:\Users\temp.step.001\documents\visual studio 2012\Projects\Thread1\WithLibrary\obj\Debug\WithLibrary.pdb
